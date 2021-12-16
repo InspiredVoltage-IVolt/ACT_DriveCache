@@ -3,7 +3,48 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
+    <RootNamespace>ACT.Applications.DriveCache</RootNamespace>
+    <ApplicationIcon>ACT_DataSync_Icon.ico</ApplicationIcon>
+    <SignAssembly>True</SignAssembly>
+    <AssemblyOriginatorKeyFile>D:\IVolt_Releases\SIGNATURES\ACTDriveCache.snk</AssemblyOriginatorKeyFile>
+    <ProduceReferenceAssembly>False</ProduceReferenceAssembly>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="ACT_DataSync_Icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ACT_Interfaces" Version="2.0.5" />
+    <PackageReference Include="ACT_Security" Version="2.0.2" />
+    <PackageReference Include="IVolt_ACT_ExtensionLibrary" Version="2.0.7" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Runtime" Version="4.3.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Resources\Data\DriveCache\Template\Configuration.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="Resources\Data\DriveCache\Template\ConfigurationData.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
 
 </Project>

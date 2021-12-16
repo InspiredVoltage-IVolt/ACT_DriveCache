@@ -1,0 +1,61 @@
+{
+  "users": [
+    {
+      "id": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+      "username": "GAMERSGATHER--MarkAlicz",
+      "password": "asdasd",
+      "mainmachine": "AMD-TR-01",
+      "actid": "2dc21def-1c0c-4558-b01a-02f2b6b803de",
+      "lastlogin": "12/11/2021 6:00:59 PM",
+      "securitylevel": 0,
+      "databaseconnectionstring": ""
+    }
+  ],
+  "searchdefinitions": [
+    {
+      "id": "be30aebc-626e-4e3f-8d50-00b2f8afb14e",
+      "userid": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+      "name": "New Appllications Path",
+      "pathids": [ "bb7570cd-3cf5-4cda-9305-9ce1f108533e" ]
+      
+    },
+    {
+      "id": "03269ae7-3660-4656-9a3e-62492cf24a12",
+      "userid": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+      "name": "All Assets Path",
+      "pathids": [
+        "b0c91dbf-c184-4533-a0b2-51b4df9a6465"
+      ]
+    }
+  ],
+  "machines": [
+    {
+      "name": "AMD-TR-01",
+      "id": "e550cd36-1b57-4461-b620-ac94c3c4409d",
+      "userid": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+      "paths": [
+        {
+          "id": "bb7570cd-3cf5-4cda-9305-9ce1f108533e",
+          "owneruserid": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+          "path": "Z:\\Applications_New\\",
+          "pattern": "*.*",
+          "encryption": false,
+          "recursive": true,
+          "externalpermissions": [
+          ]
+        },
+        {
+          "id": "b0c91dbf-c184-4533-a0b2-51b4df9a6465",
+          "owneruserid": "5214a30d-ab1a-42f8-becf-cc297d286bae",
+          "path": "Z:\\Assets\\",
+          "pattern": "*.*",
+          "encryption": false,
+          "recursive": true,
+          "externalpermissions": [
+          ]
+        }
+      ]
+    }
+  ],
+  "databaseconnectionstring": "Data Source=ns-sql-01;Initial Catalog=ACT_DriveCache;User ID=root;Password=K@iserB3lla!MS"
+}

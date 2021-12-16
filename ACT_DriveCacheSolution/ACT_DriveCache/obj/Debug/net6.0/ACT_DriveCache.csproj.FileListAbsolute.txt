@@ -1,0 +1,14 @@
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\bin\Debug\net6.0\ACT_DriveCache.deps.json
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\bin\Debug\net6.0\ACT_DriveCache.dll
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\bin\Debug\net6.0\ACT_DriveCache.pdb
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.AssemblyInfoInputs.cache
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.AssemblyInfo.cs
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.csproj.CoreCompileInputs.cache
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.dll
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.pdb
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.csproj.AssemblyReference.cache
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\bin\Debug\net6.0\Resources\Data\DriveCache\Template\Configuration.json
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\bin\Debug\net6.0\Resources\Data\DriveCache\Template\ConfigurationData.json
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT.Applications.DriveCache.Properties.Resources.resources
+D:\IVolt_Development\ACT_DriveCache\ACT_DriveCache\ACT_DriveCacheSolution\ACT_DriveCache\obj\Debug\net6.0\ACT_DriveCache.csproj.GenerateResource.cache

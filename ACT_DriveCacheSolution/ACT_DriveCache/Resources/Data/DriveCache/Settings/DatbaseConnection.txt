@@ -1,0 +1,1 @@
+﻿Data Source=ns-sql-01;Initial Catalog=ACT_DriveCache;User ID=root;Password=K@iserB3lla!MS

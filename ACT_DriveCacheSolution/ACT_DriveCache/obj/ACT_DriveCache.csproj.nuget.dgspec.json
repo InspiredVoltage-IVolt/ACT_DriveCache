@@ -49,6 +49,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "ACT_Interfaces": {
+              "target": "Package",
+              "version": "[2.0.5, )"
+            },
+            "ACT_Security": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "IVolt_ACT_ExtensionLibrary": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

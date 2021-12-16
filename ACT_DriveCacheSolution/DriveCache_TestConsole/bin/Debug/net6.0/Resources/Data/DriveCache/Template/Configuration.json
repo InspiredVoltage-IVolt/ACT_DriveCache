@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "id": "",
+      "username": "",
+      "password": "",
+      "mainmachine": "",
+      "actid": "",
+      "lastlogin": "",
+      "securitylevel": 1,
+      "databaseconnectionstring": ""
+    }
+  ],
+  "searchdefinitions": [
+    {
+      "id": "",
+      "userid": "",
+      "name": "",
+      "totalindexeditems": 0,
+      "lastrundate": "11/1/2021",
+      "hoursbetweenupdate": 22
+    }
+  ],
+  "searchdefinitionpaths": [
+    {
+      "searchdefinitionid": "",
+      "pathid": "",
+      "totalindexeditems": 0,
+      "lastrundate": "11/1/2021"
+    }
+  ],
+  "machines": [
+    {
+      "name": "",
+      "id": "",      
+      "paths": [
+        {
+          "id": "",
+          "userid": "",
+          "path": "",
+          "pattern": "",
+          "encryption": false,
+          "recursive": true         
+        }
+      ]
+    }
+  ],
+  "databaseconnectionstring": ""
+}
